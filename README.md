@@ -17,7 +17,7 @@ service.exe start
 
 You can do this using a browser. Navigate to `http://ip-address:8080/api/v1/version`. It should print the current version.
 
-#### Create a new build for the service
+#### Create a new build of the service
 
 Update the internal version string in `sevice\main.go`. Then build it.
 
