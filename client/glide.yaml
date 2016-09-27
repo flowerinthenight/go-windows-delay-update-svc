@@ -1,0 +1,4 @@
+package: terarecon.com/go-win-self-update-service/client
+import:
+- package: github.com/urfave/cli
+  version: ^1.18.1
